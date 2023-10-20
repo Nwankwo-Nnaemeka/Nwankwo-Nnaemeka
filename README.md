@@ -3,7 +3,7 @@
 <h3 align="center">I love Python , Machine Learning and Deep learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udoann&label=Profile%20views&color=0e75b6&style=flat" alt="Nwankwo-Nnaemeka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nwankwo-Nnaemeka&label=Profile%20views&color=0e75b6&style=flat" alt="Nwankwo-Nnaemeka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mekuzeeyo" target="blank"><img src="https://img.shields.io/twitter/follow/mekuzeeyo?logo=twitter&style=for-the-badge" alt="mekuzeeyo" /></a> </p>
 
