@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning/Data science projects**
 
-- 🤝 I’m looking for help with **Machine learning**
+- 🤝 I’m looking for help with **Android Development For Machine Learning**
 
 - 💬 Ask me about **python, machine learning**
 
